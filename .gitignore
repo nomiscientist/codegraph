@@ -8,7 +8,6 @@ dist/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 *~
@@ -22,8 +21,6 @@ Thumbs.db
 .nyc_output/
 
 # Environment
-.env
-.env.local
 .env.*.local
 
 # Logs
@@ -49,3 +46,4 @@ test_frameworks
 test-languages/
 
 nul
+config.bat
